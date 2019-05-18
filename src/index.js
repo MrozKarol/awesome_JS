@@ -1,3 +1,3 @@
-import obj from '../test';
+import obj from './test';
 
 obj.test();
