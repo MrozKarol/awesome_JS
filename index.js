@@ -1,2 +1,3 @@
-require('./test').test();
+import obj from './test';
 
+obj.test();
