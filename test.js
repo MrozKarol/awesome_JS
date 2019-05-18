@@ -1,2 +1,3 @@
-// eslint-disable-next-line no-console
-console.log('clog');
+module.exports = {
+test: () => console.log('success')
+};
