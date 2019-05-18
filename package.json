@@ -12,7 +12,8 @@
   ],
   "author": "KarolMroz",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "eslint": "^5.16.0"
   }
 }
