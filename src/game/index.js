@@ -6,7 +6,7 @@ import info from './userInfo'
 // **export domyślny
 export default () =>{
 
-let num = gettNum;
+let num = getNum;
 while (num !== TO_FIND){
     info(num, TO_FIND);
     num = getNum();
