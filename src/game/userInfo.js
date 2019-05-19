@@ -1,3 +1,4 @@
+// **import zmiennych stałych "komunikatów"
 import { TOO_LESS, TOO_MUCH} from './constans';
 
 export default (num, expeced) =>{

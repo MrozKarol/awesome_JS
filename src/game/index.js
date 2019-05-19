@@ -2,8 +2,8 @@ import TO_FIND from './random';
 import getNum from './input';
 import suces from './suces';
 import info from './userInfo'
-
-
+ 
+// **export domyślny
 export default () =>{
 
 let num = gettNum;
