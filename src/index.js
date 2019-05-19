@@ -1,3 +1,3 @@
-import obj from './test';
+import game from './game/index';
 
-obj.test();
+game();
